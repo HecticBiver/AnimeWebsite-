@@ -8,7 +8,7 @@ const Cards = ({ title, img, link }) => {
         <Image
           width={"full"}
           src={img}
-          height={["35vh", "35vh", "45vh", "50vh", "50vh"]}
+          height={["30vh", "30vh", "45vh", "50vh", "50vh"]}
           objectFit={"cover"}
           alt='Green double couch with wooden legs'
           borderRadius='lg'
