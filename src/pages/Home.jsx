@@ -69,7 +69,7 @@ const Home = () => {
       <SimpleGrid
         paddingX={[4, 4, 7, 10, 10]}
         columns={[2, 2, 3, 4, 5]}
-        spacing={5}>
+        spacing={4}>
         {data &&
           data.data &&
           data.data.map((anime) => (
